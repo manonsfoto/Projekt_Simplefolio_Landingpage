@@ -1,0 +1,17 @@
+.stn_hero {
+  gap: 2rem;
+  padding-top: 5rem;
+}
+h1 {
+  font-size: 2rem;
+  font-family: "Poppins-Bold";
+  padding-bottom: 1rem;
+}
+span {
+  color: var(--cool-gray-blue);
+}
+.stn_hero p {
+  color: var(--light-lavender-blue);
+  width: 60rem;
+  text-align: center;
+}

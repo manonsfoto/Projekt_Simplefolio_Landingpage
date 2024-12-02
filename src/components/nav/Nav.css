@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav div {
+  display: flex;
+  gap: 2rem;
+}
+:root {
+  --dark-midnight-blue: #23283e;
+  --dusky-blue: #2a2f4c;
+  --soft-lavender: #bdbddd;
+  --light-lavender-blue: #cdcdff;
+  --cool-gray-blue: #90a0d9;
+}
+.logo {
+  color: var(--cool-gray-blue);
+  font-family: "Poppins-Bold";
+}
+
+nav div a {
+  color: var(--light-lavender-blue);
+}

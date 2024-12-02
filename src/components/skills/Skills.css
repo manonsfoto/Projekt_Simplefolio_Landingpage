@@ -1,0 +1,16 @@
+.chips_wrapper {
+  width: 30rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+.chips_wrapper p {
+  background-color: var(--dusky-blue);
+  padding: 0.5rem 1rem;
+}
+
+.stn_skills {
+  gap: 2rem;
+  padding-top: 5rem;
+}

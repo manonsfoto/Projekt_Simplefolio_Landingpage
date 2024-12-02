@@ -1,0 +1,22 @@
+.stn_projects {
+  gap: 2rem;
+  padding-top: 5rem;
+}
+.cards-wrapper {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+article {
+  width: 25rem;
+  border: 1px solid var(--dark-midnight-blue);
+  box-shadow: 2px 2px var(--dark-midnight-blue);
+  background-color: var(--dusky-blue);
+  padding: 1.3rem 2rem;
+  text-align: center;
+  gap: 1rem;
+}
+.card_paragraph {
+  color: var(--soft-lavender);
+  font-family: "Poppins-Bold";
+}
